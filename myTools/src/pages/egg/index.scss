@@ -1,0 +1,26 @@
+page {
+  overflow: hidden;
+}
+.index {
+  overflow: hidden;
+}
+.header {
+  z-index: 2;
+}
+.eggBg {
+  position: absolute;
+  top: 439px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+.egg {
+  position: relative;
+  z-index: 2;
+}
+.prizeContent {
+  position: relative;
+  color: darkred;
+  z-index: 2;
+}

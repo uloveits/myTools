@@ -1,0 +1,32 @@
+.wishes-bg {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  right: 20px;
+  z-index: 1;
+}
+.title {
+  color: #fff;
+  padding-top: 120px;
+  position: relative;
+  text-align: center;
+  font-weight: bold;
+  z-index: 2;
+  .des {
+    padding-top: 20px;
+    font-size: 26px;
+  }
+}
+.content {
+  color: #fff;
+  padding:80px 100px 0px 100px;
+  position: relative;
+  font-size: 30px;
+  z-index: 2;
+}
+.searchAnswerBtn {
+  position: absolute;
+  bottom: 50px;
+  left: 0;
+  right: 0;
+}

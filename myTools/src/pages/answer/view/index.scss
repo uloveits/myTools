@@ -1,0 +1,18 @@
+.answer {
+  padding: 60px;
+  height: calc(100% - 120px);
+  .answer-border {
+    border: 5px solid #000000;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #292421;
+    height: 100%;
+  }
+  .content {
+    padding: 400px 20px 0 20px;
+    text-align: center;
+  }
+  .english {
+    color: #424242;
+    font-size: 30px;
+  }
+}
